@@ -1,0 +1,10 @@
+**/build.hw
+**/build.x86sim
+**/build
+
+**/*.log
+**/*.exe
+**/.Xil/
+**/_x/
+
+.vscode/
