@@ -42,7 +42,7 @@ For any questions or suggestions, please open an issue or contact at [mohamed.bo
 
 ## Reference
 
-M. Bouaziz and S. Fahmy, "PRNGine: Massively Parallel Pseudo-Random Number Generation and Probability Distribution Approximations on AMD AI Engines," 2025 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW), Milan, Italy, 2025.
+M. Bouaziz and S. A. Fahmy, "PRNGine: Massively Parallel Pseudo-Random Number Generation and Probability Distribution Approximations on AMD AI Engines," 2025 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW), 2025.
 
 
 ```
